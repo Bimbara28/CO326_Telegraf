@@ -69,8 +69,4 @@ telegraf --config telegraf.conf --test
    - Navigate to your bucket in the Data Explorer.
 3. Ensure real-time data is flowing from the simulated endpoint if used.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-For issues or questions, open an issue in this repository or contact the repository owner.
